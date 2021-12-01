@@ -10,7 +10,7 @@
 
 ## 教育经历
 硕士 xxxxxxxx大学 软件工程 <span class="right">2014.09 - 2017.06</span><br>
-本科 xxxxxxxxxxxx大学 电子信息工程 <span class="right">2010.09 - 2014.06</span>
+本科 同济大学 建筑学 <span class="right">1998.09 - 2003.07</span>
 
 
 ## 工作经历
