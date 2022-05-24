@@ -14,8 +14,8 @@
 
 ## 工作经历
 奔特力工程软件系统（上海）有限公司(纳斯达克上市)- 中国区 副总裁<span class="right">2011.03 - 至今</span>
-* 获得荣誉：**xxxxxxxxxxxxxxxxxxxxxx**
-xxxxxxxxxxxx公司(初创)-xxxxx部门 xxxxxxx岗位<span class="right">2016.07 - 至今</span><br>
+* 获得荣誉：**xxxxxxxxxxxxxxxxxxxxxx**  <br>
+xxxxxxxxxxxx公司(初创)-xxxxx部门 xxxxxxx岗位<span class="right">2016.07 - 至今</span>
 
 ## 项目经验
 ### 项目一名称<span class="role">:&nbsp;职责</span><span class="right">2018.01 - 至今</span>
