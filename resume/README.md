@@ -9,14 +9,13 @@
 </h1>
 
 ## 教育经历
-硕士 xxxxxxxx大学 软件工程 <span class="right">2014.09 - 2017.06</span><br>
 本科 同济大学 建筑学 <span class="right">1998.09 - 2003.07</span>
 
 
 ## 工作经历
-xxxxxxxxxxxx公司(初创)-xxxxx部门 xxxxxxx岗位<span class="right">2016.07 - 至今</span><br>
-xxxxxxxxxxxx公司(上市)-xxxxxxxxx部门 xxxxxxx岗位<span class="right">2014.07 - 2016.07</span>
+奔特力工程软件系统（上海）有限公司(纳斯达克上市)- 中国区 副总裁<span class="right">2011.03 - 至今</span>
 * 获得荣誉：**xxxxxxxxxxxxxxxxxxxxxx**
+xxxxxxxxxxxx公司(初创)-xxxxx部门 xxxxxxx岗位<span class="right">2016.07 - 至今</span><br>
 
 ## 项目经验
 ### 项目一名称<span class="role">:&nbsp;职责</span><span class="right">2018.01 - 至今</span>
